@@ -54,7 +54,7 @@ public class Carro {
 
     public Integer getAno() { return ano; }
 
-    public void setAno(Integer ano) { this.ano = ano; }
+    public void setAno(Integer ano) { this.ano = ano;}
 
     public void infos() {
         System.out.println("|   Informações do carro");
