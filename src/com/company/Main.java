@@ -11,8 +11,6 @@ public class Main {
         carro.setCor(Carro.AZUL);
         carro.setMarcas(Carro.FERRARI);
         carro.setAno(2020);
-        carro.getCalotas();
-        carro.getParafusos();
 
         carro.infos();
 
