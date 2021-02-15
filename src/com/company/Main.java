@@ -7,7 +7,6 @@ public class Main {
         Carro carro = new Carro(4);
 
 
-
         carro.setCor(Carro.AZUL);
         carro.setMarcas(Carro.FERRARI);
         carro.setAno(2020);
